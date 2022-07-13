@@ -10,4 +10,4 @@
   - CSS
   - JAVASCRIPT
 
-<a href="https://3lucasrs.github.io/7days-project1-drums/">Clique para visualizar a página.</a>
+<a href="https://3lucasrs.github.io/7days-project2-clock/">Clique para visualizar a página.</a>
